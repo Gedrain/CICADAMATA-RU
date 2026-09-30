@@ -1,17 +1,5 @@
 # CICADAMATA — глоссарий русской локализации (v2, полная)
 
-Правило: латиницей остаются только ИМЕНА (персонажи, ИИ, оружие с собственным
-именем, студия/авторы в титрах) и название игры. Всё остальное переводится:
-позывные, прозвища, локации, организации, режимы, ранги, уровни, враги, термины.
-
-## Остаются как есть (имена)
-JOYEUSE (оружие-ИИ), FAWN / FAWN-A2, AUGUST, Celeste, AEGIS / AEGIS-017,
-DEMETER, DIONYSUS, CLOVER, Ceres, MARCH (сущность), DECEMBER-C1 / DECEMBER-A1,
-SABLE-L3, ROWAN-K4, MIYA-H5, HALCA-O6, TAINA-I7, JANUARY, EZRA HAINE, SOL HAINE,
-KYRIE E. VALENTINE, HAUTECLERE (ассистент), CLARENT (меч), David,
-CICADAMATA" / CCDAMTA (название игры), MATA" (марка визора), FLOWERGARDEN /
-FLWRGRDN (студия), имена в титрах, названия плагинов.
-
 ## Термины
 | EN | RU |
 |---|---|
