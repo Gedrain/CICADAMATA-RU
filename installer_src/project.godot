@@ -1,0 +1,26 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+
+config/name="CICADAMATA RU Installer"
+config/description="Установщик русской локализации CICADAMATA\" — NOTFOUNDVPN"
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://assets/icon.png"
+config/windows_native_icon="res://assets/icon.ico"
+boot_splash/show_image=false
+boot_splash/bg_color=Color(0, 0, 0, 1)
+
+[display]
+
+window/size/viewport_width=1120
+window/size/viewport_height=640
+window/size/resizable=false
+window/size/borderless=true
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0, 0, 0, 1)
